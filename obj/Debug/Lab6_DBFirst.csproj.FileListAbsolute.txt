@@ -1,0 +1,12 @@
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6_DBFirst\obj\Debug\Lab6_DBFirst.csproj.AssemblyReference.cache
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6_DBFirst\obj\Debug\Lab6_DBFirst.csproj.CoreCompileInputs.cache
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6_DBFirst\bin\Debug\Lab6_DBFirst.exe.config
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6_DBFirst\bin\Debug\Lab6_DBFirst.exe
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6_DBFirst\bin\Debug\Lab6_DBFirst.pdb
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6_DBFirst\bin\Debug\EntityFramework.dll
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6_DBFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6_DBFirst\bin\Debug\EntityFramework.xml
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6_DBFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6_DBFirst\obj\Debug\Lab6_DBFirst.csproj.CopyComplete
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6_DBFirst\obj\Debug\Lab6_DBFirst.exe
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6_DBFirst\obj\Debug\Lab6_DBFirst.pdb
